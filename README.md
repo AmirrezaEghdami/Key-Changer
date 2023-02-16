@@ -17,7 +17,7 @@ git clone https://github.com/AmirrezaEghdami/Key-Changer.git
 ```
 <br>
 
-> Install **[keyboard](https://https://github.com/boppreh/keyboard)** library.
+> Install **[keyboard](https://github.com/boppreh/keyboard)** library.
 ```
 pip install keyboard
 ```
